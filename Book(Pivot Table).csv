@@ -1,0 +1,33 @@
+Gender,Test Preparation ,Lunch,Sum of Math Scores,Sum of Reading Scores,Sum of Writing Scores 
+Female,completed,Free / Reduced ,216,225,229
+,,standard,431,459,447
+,completed Total,,647,684,676
+,None,Free / Reduced ,229,244,236
+,,standard,228,237,240
+,None Total,,457,481,476
+Female Total,,,1104,1165,1152
+Male,completed,standard,620,598,613
+,completed Total,,620,598,613
+,None,Free / Reduced ,251,244,249
+,,standard,275,264,256
+,None Total,,526,508,505
+Male Total,,,1146,1106,1118
+Grand Total,,,2250,2271,2270
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+"Overall, math scores seem to have the lowest average amongst them all.",,,,,
